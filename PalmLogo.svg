@@ -3,9 +3,9 @@
 	 viewBox="0 0 226 226" style="enable-background:new 0 0 226 226;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#15234A;stroke:#FFFFFF;stroke-width:2;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:4;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:2;}
-	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:4;}
 </style>
 <g>
 	<path class="st0" d="M113,222.6C52.6,222.6,3.4,173.4,3.4,113C3.4,52.6,52.6,3.4,113,3.4S222.6,52.6,222.6,113
